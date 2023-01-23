@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Строки</h2>
+
+<p>Строки могут быть написаны в двойных или одинарных кавычках.</p>
+
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = 'Amigos';
+</script>
+
+</body>
+</html>
